@@ -14,11 +14,17 @@
  
  <br>
  
-  ### Uma conversa?! Me encontre aqui ⬇
+  ### Uma conversa?! Me encontre aqui <a><img align="center" width="20px" src="https://cdn-icons-png.flaticon.com/512/3416/3416111.png" style="align:top;">
+  </a> 
  
 <div> 
-  <a href = "mailto:thaynateixeira95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/thaynalima3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <p> <a href="mailto:thaynateixeira95@gmail.com">
+  <img align="center" width="36px" src="https://cdn-icons-png.flaticon.com/512/2875/2875394.png" target="_blank"></a>
+</a>&emsp;<a href="https://www.linkedin.com/in/thaynalima3/">
+    <img align="center" width="28px" src="https://cdn-icons-png.flaticon.com/512/725/725337.png" alt="linkedin" style="vertical-align:top;">
+  </a> </p> 
+ 
+ 
  
   ![Snake animation](https://github.com/thaynagit/thaynagit/blob/output/github-contribution-grid-snake.svg)
 
