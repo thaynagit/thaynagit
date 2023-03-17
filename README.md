@@ -2,8 +2,9 @@
 
  <div>
    <a href="https://github.com/thaynagit">
+    <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynagit&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thaynagit&show_icons=true"/>
-   <img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynagit&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
+   
 
 </div>
 <div style="display: inline_block" > <br> <p>
